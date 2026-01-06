@@ -1,19 +1,18 @@
-# 🎈 Blank app template
+# Beckett’s Player Development Lab
 
-A simple Streamlit app template for you to modify!
+An Streamlit appication for my son to consolidate and centralize his baseball training resources.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beckett.streamlit.app/)
 
-### How to run it on your own machine
+## Overview
+This repository contains an application that is intended **solely for personal use** by my son. It is provided for reference, learning, and experimentation purposes only to support his baseball training.
 
-1. Install the requirements
+## Usage Notice
+🚫 **This application is not intended for commercial use, redistribution, or production deployment.**
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Disclaimer
+The author makes no warranties, express or implied, regarding the correctness, reliability, or suitability of this application for any purpose.
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+**For personal use only.**
